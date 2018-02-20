@@ -1,0 +1,34 @@
+.information-card-box {
+  height: 25vh;
+  background-color: lightgray;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-top: 1vh;
+}
+
+.information-card-more-details {
+  height: 25vh;
+  background-color: lightgray;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+
+.information-card-details {
+  height: 22vh;
+}
+
+.information-card-footer {
+  height: 3vh;
+  border-top: lightgray solid 1px;
+  background-color: white;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-hide {
+  background-color: transparent;
+  padding: 0;
+  color: dodgerblue;
+}
